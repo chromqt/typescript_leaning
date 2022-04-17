@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chromqt/typescript_leaning/issues"
   },
-  "homepage": "https://github.com/chromqt/typescript_leaning#readme"
+  "homepage": "https://github.com/chromqt/typescript_leaning#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
